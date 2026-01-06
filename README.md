@@ -1,2 +1,8 @@
 # AI_fork_test
-# Troublemaker KVN 20260106_1923
+
+This is the real official update
+
+you should have this
+
+any other version is inferior
+
